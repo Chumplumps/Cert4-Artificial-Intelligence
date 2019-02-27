@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
+
+  //Controller script for enemy
+
+
 public class AIEnemy : MonoBehaviour
 {
 
